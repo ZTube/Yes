@@ -1,0 +1,17 @@
+# Ignore all
+*/*
+
+# Unignore all files with extension
+!*/*.*
+
+# Unignore makefiles
+!Makefile
+
+# Ignore module binaries
+*.o
+*.cmd
+*.symvers
+*.ko
+*.order
+*.mod
+*.mod.c
